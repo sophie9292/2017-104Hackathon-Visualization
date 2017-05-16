@@ -10,12 +10,14 @@ Open data資料多元綜合運用，以獨特分析角度提出職場與外部�
     + Date: 2016-04 ~ 2017-03
     + [Schema](https://github.com/104corp/2017-104Hackathon-Visualization/blob/master/data-schema/user_log_schema.md)
     + [Sample](https://github.com/104corp/2017-104Hackathon-Visualization/blob/master/sample-data/user_log_sample.csv) 
+    + 訓練資料集將在賽前以Email通知參賽者
 * 公司與職務資料
     + 上市櫃公司與五百大企業
         - File: companies.csv 
         - Decription: 台灣所有上市櫃公司與資本額前五百大企業，共有1147間公司
         - [Schema](https://github.com/104corp/2017-104Hackathon-Visualization/blob/master/data-schema/companies_schema.md)
         - [Sample](https://github.com/104corp/2017-104Hackathon-Visualization/blob/master/sample-data/companies_sample.csv)
+        - 訓練資料集將在賽前以Email通知參賽者
     + 職務資料
         - File: job_structured_info.csv, job_description.csv
         - Description: 對每一筆職務結構化的欄位資料與該職務的文字描述
@@ -24,6 +26,7 @@ Open data資料多元綜合運用，以獨特分析角度提出職場與外部�
         - [Job Structured Info Schema](https://github.com/104corp/2017-104Hackathon-Visualization/blob/master/data-schema/job_structured_info_schema.md)
         - [Job Description Sample](https://github.com/104corp/2017-104Hackathon-Visualization/blob/master/sample-data/job_description_sample.csv)
         - [Job Structured Info Sample](https://github.com/104corp/2017-104Hackathon-Visualization/blob/master/sample-data/job_structured_info_sample.csv)
+        - 訓練資料集將在賽前以Email通知參賽者
     + 職務異動歷史資料
         - File: job_structured_info_{yyyymm}.csv, job_description_{yyyymm}.csv
         - Description: 對每一筆職務結構化的欄位資料與該職務文字描述的修改歷程
@@ -32,6 +35,7 @@ Open data資料多元綜合運用，以獨特分析角度提出職場與外部�
         - [Job Structured Info History Schema](https://github.com/104corp/2017-104Hackathon-Visualization/blob/master/data-schema/job_structured_info_history_schema.md)
         - [Job Description History Sample](https://github.com/104corp/2017-104Hackathon-Visualization/blob/master/sample-data/job_description_2014_sample.csv)
         - [Job Structured Info History Sample](https://github.com/104corp/2017-104Hackathon-Visualization/blob/master/sample-data/job_structured_info_2014_sample.csv)
+        - 訓練資料集將在賽前以Email通知參賽者
     + 類目資料
         - File:
             - department.csv [Sample](https://github.com/104corp/2017-104Hackathon-Visualization/blob/master/sample-data/department_sample.csv)
@@ -39,6 +43,7 @@ Open data資料多元綜合運用，以獨特分析角度提出職場與外部�
             - industry.csv [Sample](https://github.com/104corp/2017-104Hackathon-Visualization/blob/master/sample-data/industry_sample.csv)
             - job_category.csv [Sample](https://github.com/104corp/2017-104Hackathon-Visualization/blob/master/sample-data/job_category_sample.csv)
         - Description: 在職務結構化欄位中的類目對照
+        - 訓練資料集將在賽前以Email通知參賽者
 
 ## 評分標準
 * 創新70%
