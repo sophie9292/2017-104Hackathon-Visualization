@@ -46,6 +46,7 @@ Open data資料多元綜合運用，以獨特分析角度提出職場與外部�
             - job_category.csv [Sample](https://github.com/104corp/2017-104Hackathon-Visualization/blob/master/sample-data/job_category_sample.csv)
         - Description: 在職務結構化欄位中的類目對照
         - 訓練資料集將在賽前以Email通知參賽者
+* [D3.js範例](https://github.com/104corp/2017-104Hackathon-Visualization/tree/master/d3js-example)
 
 ## 評分標準
 * 創新70%
